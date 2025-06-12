@@ -1,0 +1,42 @@
+C:\16\16\bin\Debug\net9.0\16.exe
+C:\16\16\bin\Debug\net9.0\16.deps.json
+C:\16\16\bin\Debug\net9.0\16.runtimeconfig.json
+C:\16\16\bin\Debug\net9.0\16.dll
+C:\16\16\bin\Debug\net9.0\16.pdb
+C:\16\16\obj\Debug\net9.0\16.GeneratedMSBuildEditorConfig.editorconfig
+C:\16\16\obj\Debug\net9.0\16.AssemblyInfoInputs.cache
+C:\16\16\obj\Debug\net9.0\16.AssemblyInfo.cs
+C:\16\16\obj\Debug\net9.0\16.csproj.CoreCompileInputs.cache
+C:\16\16\obj\Debug\net9.0\16.dll
+C:\16\16\obj\Debug\net9.0\refint\16.dll
+C:\16\16\obj\Debug\net9.0\16.pdb
+C:\16\16\obj\Debug\net9.0\16.genruntimeconfig.cache
+C:\16\16\obj\Debug\net9.0\ref\16.dll
+C:\Ejercicios Parcial\16\16\bin\Debug\net9.0\16.exe
+C:\Ejercicios Parcial\16\16\bin\Debug\net9.0\16.deps.json
+C:\Ejercicios Parcial\16\16\bin\Debug\net9.0\16.runtimeconfig.json
+C:\Ejercicios Parcial\16\16\bin\Debug\net9.0\16.dll
+C:\Ejercicios Parcial\16\16\bin\Debug\net9.0\16.pdb
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\16.AssemblyInfoInputs.cache
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\16.AssemblyInfo.cs
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\16.csproj.CoreCompileInputs.cache
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\16.dll
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\refint\16.dll
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\16.pdb
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\16.genruntimeconfig.cache
+C:\Ejercicios Parcial\16\16\obj\Debug\net9.0\ref\16.dll
+C:\Users\kevin\OneDrive\Desktop\16\16\bin\Debug\net9.0\16.exe
+C:\Users\kevin\OneDrive\Desktop\16\16\bin\Debug\net9.0\16.deps.json
+C:\Users\kevin\OneDrive\Desktop\16\16\bin\Debug\net9.0\16.runtimeconfig.json
+C:\Users\kevin\OneDrive\Desktop\16\16\bin\Debug\net9.0\16.dll
+C:\Users\kevin\OneDrive\Desktop\16\16\bin\Debug\net9.0\16.pdb
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\16.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\16.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\16.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\16.dll
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\refint\16.dll
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\16.pdb
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\16.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Desktop\16\16\obj\Debug\net9.0\ref\16.dll
